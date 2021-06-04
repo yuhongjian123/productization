@@ -1,0 +1,407 @@
+[2021-06-02 15:24:11,441] - logger.py-->line:35] - INFO: '切换登录方式'('class name', 'pt-fanhui')元素定位成功
+[2021-06-02 15:24:11,499] - logger.py-->line:35] - INFO: 点击切换登录方式成功
+[2021-06-02 15:24:11,513] - logger.py-->line:35] - INFO: '用户名框'('id', 'username')元素定位成功
+[2021-06-02 15:24:11,541] - logger.py-->line:35] - INFO: 用户名框清除成功
+[2021-06-02 15:24:11,547] - logger.py-->line:35] - INFO: '用户名框'('id', 'username')元素定位成功
+[2021-06-02 15:24:11,611] - logger.py-->line:35] - INFO: 在用户名框中输入350203196505264042成功
+[2021-06-02 15:24:11,620] - logger.py-->line:35] - INFO: '密码框'('id', 'password')元素定位成功
+[2021-06-02 15:24:11,648] - logger.py-->line:35] - INFO: 密码框清除成功
+[2021-06-02 15:24:11,653] - logger.py-->line:35] - INFO: '密码框'('id', 'password')元素定位成功
+[2021-06-02 15:24:11,687] - logger.py-->line:35] - INFO: 在密码框中输入1成功
+[2021-06-02 15:24:11,697] - logger.py-->line:35] - INFO: '登录按钮'('class name', 'login-btn')元素定位成功
+[2021-06-02 15:24:12,833] - logger.py-->line:35] - INFO: 点击登录按钮成功
+[2021-06-02 15:24:12,923] - logger.py-->line:35] - INFO: ''财政专户管理''('xpath', "//li[@text='财政专户管理']")元素定位成功
+[2021-06-02 15:24:13,172] - logger.py-->line:35] - INFO: 点击'财政专户管理'成功
+[2021-06-02 15:24:13,183] - logger.py-->line:35] - INFO: ''专户账户维护''('xpath', "//li[@text='专户账户维护']")元素定位成功
+[2021-06-02 15:24:14,317] - logger.py-->line:35] - INFO: 点击'专户账户维护'成功
+[2021-06-02 15:24:14,333] - logger.py-->line:35] - INFO: '首层frame'('xpath', '//body/div[1]/div[2]/div[1]/div[2]/iframe[1]')元素定位成功
+[2021-06-02 15:24:14,349] - logger.py-->line:35] - INFO: 进入frame('xpath', '//body/div[1]/div[2]/div[1]/div[2]/iframe[1]')成功
+[2021-06-02 15:24:14,358] - logger.py-->line:35] - INFO: '待送审页签'('xpath', "//a[contains(text(),'待送审')]")元素定位成功
+[2021-06-02 15:24:14,449] - logger.py-->line:35] - INFO: 点击待送审页签成功
+[2021-06-02 15:24:14,459] - logger.py-->line:35] - INFO: '开户详情按钮'('id', 'add_acc')元素定位成功
+[2021-06-02 15:24:14,568] - logger.py-->line:35] - INFO: 点击开户详情按钮成功
+[2021-06-02 15:24:14,609] - logger.py-->line:35] - INFO: '开户详情页面frame'('xpath', "//iframe[@allowtransparency='true']")元素定位成功
+[2021-06-02 15:24:14,776] - logger.py-->line:35] - INFO: 进入frame('xpath', "//iframe[@allowtransparency='true']")成功
+[2021-06-02 15:24:14,811] - logger.py-->line:35] - INFO: '帐号名称'('xpath', "//span[contains(text(), '账户名称:')]/following-sibling::span[1]/input")元素定位成功
+[2021-06-02 15:24:14,926] - logger.py-->line:35] - INFO: 帐号名称清除成功
+[2021-06-02 15:24:14,934] - logger.py-->line:35] - INFO: '帐号名称'('xpath', "//span[contains(text(), '账户名称:')]/following-sibling::span[1]/input")元素定位成功
+[2021-06-02 15:24:15,014] - logger.py-->line:35] - INFO: 在帐号名称中输入专户账户冒烟测试052707成功
+[2021-06-02 15:24:15,026] - logger.py-->line:35] - INFO: '财政区划代码'('xpath', "//span[contains(text(), '财政区划代码:')]/following-sibling::span[1]/span/input")元素定位成功
+[2021-06-02 15:24:15,145] - logger.py-->line:35] - INFO: 点击财政区划代码成功
+[2021-06-02 15:24:15,158] - logger.py-->line:35] - INFO: '财政区划代码选择'('xpath', "//span[contains(text(),'450100000 南宁市')]")元素定位成功
+[2021-06-02 15:24:15,246] - logger.py-->line:35] - INFO: 点击财政区划代码选择成功
+[2021-06-02 15:24:15,257] - logger.py-->line:35] - INFO: '账户类别代码'('xpath', "//span[contains(text(), '账户类别代码:')]/following-sibling::span[1]/span/input")元素定位成功
+[2021-06-02 15:24:15,369] - logger.py-->line:35] - INFO: 点击账户类别代码成功
+[2021-06-02 15:24:15,380] - logger.py-->line:35] - INFO: '账户类别代码'('xpath', "//span[contains(text(),'31 社保基金财政专户')]/preceding-sibling::span[1]")元素定位成功
+[2021-06-02 15:24:15,469] - logger.py-->line:35] - INFO: 点击账户类别代码成功
+[2021-06-02 15:24:15,479] - logger.py-->line:35] - INFO: '险种'('xpath', "//span[contains(text(), '险种:')]/following-sibling::span[1]/span/input")元素定位成功
+[2021-06-02 15:24:15,613] - logger.py-->line:35] - INFO: 点击险种成功
+[2021-06-02 15:24:15,625] - logger.py-->line:35] - INFO: '险种'('xpath', "//span[contains(text(),'1101 企业职工基本养老保险基金')]")元素定位成功
+[2021-06-02 15:24:15,709] - logger.py-->line:35] - INFO: 点击险种成功
+[2021-06-02 15:24:15,720] - logger.py-->line:35] - INFO: '核算内容'('id', '110113')元素定位成功
+[2021-06-02 15:24:15,749] - logger.py-->line:35] - INFO: 核算内容清除成功
+[2021-06-02 15:24:15,756] - logger.py-->line:35] - INFO: '核算内容'('id', '110113')元素定位成功
+[2021-06-02 15:24:15,804] - logger.py-->line:35] - INFO: 在核算内容中输入核算内容成功
+[2021-06-02 15:24:15,817] - logger.py-->line:35] - INFO: '审批类型代码'('id', '110120')元素定位成功
+[2021-06-02 15:24:15,926] - logger.py-->line:35] - INFO: 点击审批类型代码成功
+[2021-06-02 15:24:15,941] - logger.py-->line:35] - INFO: '审批类型代码'('xpath', "//select[@id='110120']/option[@value='1']")元素定位成功
+[2021-06-02 15:24:15,967] - logger.py-->line:35] - INFO: 点击审批类型代码成功
+[2021-06-02 15:24:15,979] - logger.py-->line:35] - INFO: '开户银行选择方式'('id', '110107')元素定位成功
+[2021-06-02 15:24:16,098] - logger.py-->line:35] - INFO: 点击开户银行选择方式成功
+[2021-06-02 15:24:16,113] - logger.py-->line:35] - INFO: '开户银行选择方式'('xpath', "//option[contains(text(),'竞争性方式')]")元素定位成功
+[2021-06-02 15:24:16,145] - logger.py-->line:35] - INFO: 点击开户银行选择方式成功
+[2021-06-02 15:24:16,159] - logger.py-->line:35] - INFO: '单位代码'('id', '110119')元素定位成功
+[2021-06-02 15:24:16,192] - logger.py-->line:35] - INFO: 单位代码清除成功
+[2021-06-02 15:24:16,200] - logger.py-->line:35] - INFO: '单位代码'('id', '110119')元素定位成功
+[2021-06-02 15:24:16,285] - logger.py-->line:35] - INFO: 在单位代码中输入单位代码成功
+[2021-06-02 15:24:16,295] - logger.py-->line:35] - INFO: '单位代码'('id', '110114')元素定位成功
+[2021-06-02 15:24:16,323] - logger.py-->line:35] - INFO: 单位代码清除成功
+[2021-06-02 15:24:16,330] - logger.py-->line:35] - INFO: '单位代码'('id', '110114')元素定位成功
+[2021-06-02 15:24:16,381] - logger.py-->line:35] - INFO: 在单位代码中输入开户依据成功
+[2021-06-02 15:24:16,393] - logger.py-->line:35] - INFO: '开户详情页保存按钮'('xpath', "//button[contains(text(),'保 存')]")元素定位成功
+[2021-06-02 15:24:16,493] - logger.py-->line:35] - INFO: 点击开户详情页保存按钮成功
+[2021-06-02 15:24:18,513] - logger.py-->line:35] - INFO: '录入保存后的提示框确定'('xpath', "//div[contains(text(),'信息')]/following-sibling::div[2]/a")元素定位成功
+[2021-06-02 15:24:18,583] - logger.py-->line:35] - INFO: 点击录入保存后的提示框确定成功
+[2021-06-02 15:24:18,599] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:24:18,602] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:24:18,608] - logger.py-->line:35] - INFO: '首层frame'('xpath', '//body/div[1]/div[2]/div[1]/div[2]/iframe[1]')元素定位成功
+[2021-06-02 15:24:18,619] - logger.py-->line:35] - INFO: 进入frame('xpath', '//body/div[1]/div[2]/div[1]/div[2]/iframe[1]')成功
+[2021-06-02 15:24:18,627] - logger.py-->line:35] - INFO: '待送审页签'('xpath', "//a[contains(text(),'待送审')]")元素定位成功
+[2021-06-02 15:24:18,792] - logger.py-->line:35] - INFO: 点击待送审页签成功
+[2021-06-02 15:24:20,816] - logger.py-->line:35] - INFO: '专户账户冒烟测试052707所在数据的送审按钮'('xpath', "//td/span[@title='专户账户冒烟测试052707'][1]/../following-sibling::td[6]/a[@title='送 审'][1]")元素定位成功
+[2021-06-02 15:24:20,871] - logger.py-->line:35] - INFO: 点击专户账户冒烟测试052707所在数据的送审按钮成功
+[2021-06-02 15:24:21,254] - logger.py-->line:35] - INFO: '弹窗确定按钮'('xpath', "//a[contains(text(),'确定')]")元素定位成功
+[2021-06-02 15:24:21,303] - logger.py-->line:35] - INFO: 点击弹窗确定按钮成功
+[2021-06-02 15:24:21,305] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:24:21,307] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:24:21,496] - logger.py-->line:35] - INFO: 成功退出当前用户
+[2021-06-02 15:24:21,672] - logger.py-->line:35] - INFO: '切换登录方式'('class name', 'pt-fanhui')元素定位成功
+[2021-06-02 15:24:21,721] - logger.py-->line:35] - INFO: 点击切换登录方式成功
+[2021-06-02 15:24:21,731] - logger.py-->line:35] - INFO: '用户名框'('id', 'username')元素定位成功
+[2021-06-02 15:24:21,766] - logger.py-->line:35] - INFO: 用户名框清除成功
+[2021-06-02 15:24:21,771] - logger.py-->line:35] - INFO: '用户名框'('id', 'username')元素定位成功
+[2021-06-02 15:24:21,826] - logger.py-->line:35] - INFO: 在用户名框中输入430528198611270043成功
+[2021-06-02 15:24:21,832] - logger.py-->line:35] - INFO: '密码框'('id', 'password')元素定位成功
+[2021-06-02 15:24:21,855] - logger.py-->line:35] - INFO: 密码框清除成功
+[2021-06-02 15:24:21,860] - logger.py-->line:35] - INFO: '密码框'('id', 'password')元素定位成功
+[2021-06-02 15:24:21,890] - logger.py-->line:35] - INFO: 在密码框中输入1成功
+[2021-06-02 15:24:21,896] - logger.py-->line:35] - INFO: '登录按钮'('class name', 'login-btn')元素定位成功
+[2021-06-02 15:24:22,278] - logger.py-->line:35] - INFO: 点击登录按钮成功
+[2021-06-02 15:24:22,472] - logger.py-->line:35] - INFO: ''财政专户管理''('xpath', "//li[@text='财政专户管理']")元素定位成功
+[2021-06-02 15:24:22,555] - logger.py-->line:35] - INFO: 点击'财政专户管理'成功
+[2021-06-02 15:24:22,567] - logger.py-->line:35] - INFO: ''专户账户审核''('xpath', "//li[@text='专户账户审核']")元素定位成功
+[2021-06-02 15:24:22,837] - logger.py-->line:35] - INFO: 点击'专户账户审核'成功
+[2021-06-02 15:24:22,843] - logger.py-->line:35] - INFO: '首层frame'('xpath', '//body/div[1]/div[2]/div[1]/div[2]/iframe[1]')元素定位成功
+[2021-06-02 15:24:22,857] - logger.py-->line:35] - INFO: 进入frame('xpath', '//body/div[1]/div[2]/div[1]/div[2]/iframe[1]')成功
+[2021-06-02 15:24:23,017] - logger.py-->line:35] - INFO: '专户账户冒烟测试052707所在数据的审核通过按钮'('xpath', "//tbody/tr/td/span[@title='专户账户冒烟测试052707'][1]/../following-sibling::td[6]/a[@title='通过'][1]")元素定位成功
+[2021-06-02 15:24:23,089] - logger.py-->line:35] - INFO: 点击专户账户冒烟测试052707所在数据的审核通过按钮成功
+[2021-06-02 15:24:23,101] - logger.py-->line:35] - INFO: '通过意见'('xpath', "//div[@class='layui-layer-content']/textarea")元素定位成功
+[2021-06-02 15:24:23,121] - logger.py-->line:35] - INFO: 通过意见清除成功
+[2021-06-02 15:24:23,126] - logger.py-->line:35] - INFO: '通过意见'('xpath', "//div[@class='layui-layer-content']/textarea")元素定位成功
+[2021-06-02 15:24:23,174] - logger.py-->line:35] - INFO: 在通过意见中输入自动化测试通过意见成功
+[2021-06-02 15:24:23,180] - logger.py-->line:35] - INFO: '弹窗确定按钮'('xpath', "//a[contains(text(),'确定')]")元素定位成功
+[2021-06-02 15:24:23,236] - logger.py-->line:35] - INFO: 点击弹窗确定按钮成功
+[2021-06-02 15:24:26,267] - logger.py-->line:35] - INFO: '通过意见弹窗确定按钮'('xpath', "//div[contains(text(),'信息')]/following-sibling::div[2]/a")元素定位成功
+[2021-06-02 15:24:26,330] - logger.py-->line:35] - INFO: 点击通过意见弹窗确定按钮成功
+[2021-06-02 15:24:26,342] - logger.py-->line:35] - INFO: '已审核页签'('xpath', "//a[contains(text(),'已审核')]")元素定位成功
+[2021-06-02 15:24:26,558] - logger.py-->line:35] - INFO: 点击已审核页签成功
+[2021-06-02 15:24:26,562] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:24:26,565] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:24:26,698] - logger.py-->line:35] - INFO: 成功退出当前用户
+[2021-06-02 15:24:26,884] - logger.py-->line:35] - INFO: '切换登录方式'('class name', 'pt-fanhui')元素定位成功
+[2021-06-02 15:24:26,927] - logger.py-->line:35] - INFO: 点击切换登录方式成功
+[2021-06-02 15:24:26,935] - logger.py-->line:35] - INFO: '用户名框'('id', 'username')元素定位成功
+[2021-06-02 15:24:26,961] - logger.py-->line:35] - INFO: 用户名框清除成功
+[2021-06-02 15:24:26,967] - logger.py-->line:35] - INFO: '用户名框'('id', 'username')元素定位成功
+[2021-06-02 15:24:27,018] - logger.py-->line:35] - INFO: 在用户名框中输入350583198909091018成功
+[2021-06-02 15:24:27,024] - logger.py-->line:35] - INFO: '密码框'('id', 'password')元素定位成功
+[2021-06-02 15:24:27,048] - logger.py-->line:35] - INFO: 密码框清除成功
+[2021-06-02 15:24:27,053] - logger.py-->line:35] - INFO: '密码框'('id', 'password')元素定位成功
+[2021-06-02 15:24:27,084] - logger.py-->line:35] - INFO: 在密码框中输入1成功
+[2021-06-02 15:24:27,090] - logger.py-->line:35] - INFO: '登录按钮'('class name', 'login-btn')元素定位成功
+[2021-06-02 15:24:28,457] - logger.py-->line:35] - INFO: 点击登录按钮成功
+[2021-06-02 15:24:28,661] - logger.py-->line:35] - INFO: ''财政专户管理''('xpath', "//li[@text='财政专户管理']")元素定位成功
+[2021-06-02 15:24:28,949] - logger.py-->line:35] - INFO: 点击'财政专户管理'成功
+[2021-06-02 15:24:28,961] - logger.py-->line:35] - INFO: ''专户账户审核(省终审)''('xpath', "//li[@text='专户账户审核(省终审)']")元素定位成功
+[2021-06-02 15:24:28,988] - logger.py-->line:35] - INFO: 点击'专户账户审核(省终审)'成功
+[2021-06-02 15:24:28,995] - logger.py-->line:35] - INFO: '首层frame'('xpath', '//body/div[1]/div[2]/div[1]/div[2]/iframe[1]')元素定位成功
+[2021-06-02 15:24:29,059] - logger.py-->line:35] - INFO: 进入frame('xpath', '//body/div[1]/div[2]/div[1]/div[2]/iframe[1]')成功
+[2021-06-02 15:24:29,066] - logger.py-->line:35] - INFO: '专户账户冒烟测试052707所在数据的审核通过按钮'('xpath', "//tbody/tr/td/span[@title='专户账户冒烟测试052707'][1]/../following-sibling::td[6]/a[@title='通过'][1]")元素定位成功
+[2021-06-02 15:24:29,140] - logger.py-->line:35] - INFO: 点击专户账户冒烟测试052707所在数据的审核通过按钮成功
+[2021-06-02 15:24:29,160] - logger.py-->line:35] - INFO: '详情页面frame'('xpath', "//iframe[@allowtransparency='true']")元素定位成功
+[2021-06-02 15:24:29,508] - logger.py-->line:35] - INFO: 进入frame('xpath', "//iframe[@allowtransparency='true']")成功
+[2021-06-02 15:24:29,522] - logger.py-->line:35] - INFO: '审批意见'('xpath', "//textarea[@placeholder='请填写审批意见']")元素定位成功
+[2021-06-02 15:24:29,548] - logger.py-->line:35] - INFO: 审批意见清除成功
+[2021-06-02 15:24:29,553] - logger.py-->line:35] - INFO: '审批意见'('xpath', "//textarea[@placeholder='请填写审批意见']")元素定位成功
+[2021-06-02 15:24:29,597] - logger.py-->line:35] - INFO: 在审批意见中输入自动化测试通过意见成功
+[2021-06-02 15:24:29,609] - logger.py-->line:35] - INFO: '审批附件上传按钮'('xpath', "//span[@title='审批附件上传']/following-sibling::span[1]/div[1]/div[1]/button")元素定位成功
+[2021-06-02 15:24:29,701] - logger.py-->line:35] - INFO: 点击审批附件上传按钮成功
+[2021-06-02 15:24:32,790] - logger.py-->line:35] - INFO: 上传附件成功
+[2021-06-02 15:24:32,800] - logger.py-->line:35] - INFO: '审核详情页面通过按钮'('xpath', "//button[contains(text(),'通 过')]")元素定位成功
+[2021-06-02 15:24:33,442] - logger.py-->line:35] - INFO: 点击审核详情页面通过按钮成功
+[2021-06-02 15:24:33,901] - logger.py-->line:35] - INFO: '审核通过信息确定'('xpath', "//div[contains(text(),'信息')]/following-sibling::div[2]/a")元素定位成功
+[2021-06-02 15:24:33,994] - logger.py-->line:35] - INFO: 点击审核通过信息确定成功
+[2021-06-02 15:24:34,003] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:24:34,007] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:24:34,010] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:24:34,283] - logger.py-->line:35] - INFO: 成功退出当前用户
+[2021-06-02 15:24:34,482] - logger.py-->line:35] - INFO: '切换登录方式'('class name', 'pt-fanhui')元素定位成功
+[2021-06-02 15:24:34,533] - logger.py-->line:35] - INFO: 点击切换登录方式成功
+[2021-06-02 15:24:34,541] - logger.py-->line:35] - INFO: '用户名框'('id', 'username')元素定位成功
+[2021-06-02 15:24:34,566] - logger.py-->line:35] - INFO: 用户名框清除成功
+[2021-06-02 15:24:34,573] - logger.py-->line:35] - INFO: '用户名框'('id', 'username')元素定位成功
+[2021-06-02 15:24:34,624] - logger.py-->line:35] - INFO: 在用户名框中输入350203196505264042成功
+[2021-06-02 15:24:34,630] - logger.py-->line:35] - INFO: '密码框'('id', 'password')元素定位成功
+[2021-06-02 15:24:34,654] - logger.py-->line:35] - INFO: 密码框清除成功
+[2021-06-02 15:24:34,659] - logger.py-->line:35] - INFO: '密码框'('id', 'password')元素定位成功
+[2021-06-02 15:24:34,691] - logger.py-->line:35] - INFO: 在密码框中输入1成功
+[2021-06-02 15:24:34,698] - logger.py-->line:35] - INFO: '登录按钮'('class name', 'login-btn')元素定位成功
+[2021-06-02 15:24:35,099] - logger.py-->line:35] - INFO: 点击登录按钮成功
+[2021-06-02 15:24:35,322] - logger.py-->line:35] - INFO: ''财政专户管理''('xpath', "//li[@text='财政专户管理']")元素定位成功
+[2021-06-02 15:24:35,456] - logger.py-->line:35] - INFO: 点击'财政专户管理'成功
+[2021-06-02 15:24:35,468] - logger.py-->line:35] - INFO: ''专户账户备案''('xpath', "//li[@text='专户账户备案']")元素定位成功
+[2021-06-02 15:24:35,837] - logger.py-->line:35] - INFO: 点击'专户账户备案'成功
+[2021-06-02 15:24:35,843] - logger.py-->line:35] - INFO: '首层frame'('xpath', '//body/div[1]/div[2]/div[1]/div[2]/iframe[1]')元素定位成功
+[2021-06-02 15:24:35,857] - logger.py-->line:35] - INFO: 进入frame('xpath', '//body/div[1]/div[2]/div[1]/div[2]/iframe[1]')成功
+[2021-06-02 15:24:36,883] - logger.py-->line:35] - INFO: '专户账户冒烟测试052707所在数据的备案按钮'('xpath', "//tbody/tr/td/span[@title='专户账户冒烟测试052707'][1]/../following-sibling::td[6]/a[@title='备案'][1]")元素定位成功
+[2021-06-02 15:24:36,958] - logger.py-->line:35] - INFO: 点击专户账户冒烟测试052707所在数据的备案按钮成功
+[2021-06-02 15:24:36,980] - logger.py-->line:35] - INFO: '备案详情页frame'('xpath', "//iframe[@allowtransparency='true']")元素定位成功
+[2021-06-02 15:24:37,095] - logger.py-->line:35] - INFO: 进入frame('xpath', "//iframe[@allowtransparency='true']")成功
+[2021-06-02 15:24:37,260] - logger.py-->line:35] - INFO: '开户许可证核准号'('id', '111014')元素定位成功
+[2021-06-02 15:24:37,312] - logger.py-->line:35] - INFO: 开户许可证核准号清除成功
+[2021-06-02 15:24:37,316] - logger.py-->line:35] - INFO: '开户许可证核准号'('id', '111014')元素定位成功
+[2021-06-02 15:24:37,367] - logger.py-->line:35] - INFO: 在开户许可证核准号中输入123成功
+[2021-06-02 15:24:37,407] - logger.py-->line:35] - INFO: '帐号'('id', '111017')元素定位成功
+[2021-06-02 15:24:37,435] - logger.py-->line:35] - INFO: 帐号清除成功
+[2021-06-02 15:24:37,440] - logger.py-->line:35] - INFO: '帐号'('id', '111017')元素定位成功
+[2021-06-02 15:24:37,489] - logger.py-->line:35] - INFO: 在帐号中输入1231231成功
+[2021-06-02 15:24:37,500] - logger.py-->line:35] - INFO: '开户银行'('xpath', "//span[contains(text(), '开户银行:')]/following-sibling::span[1]/span/input")元素定位成功
+[2021-06-02 15:24:37,625] - logger.py-->line:35] - INFO: 点击开户银行成功
+[2021-06-02 15:24:37,637] - logger.py-->line:35] - INFO: '开户银行选择'('xpath', "//span[contains(text(),'1030602 中国农业银行桂林建干路支行')]")元素定位成功
+[2021-06-02 15:24:37,722] - logger.py-->line:35] - INFO: 点击开户银行选择成功
+[2021-06-02 15:24:37,734] - logger.py-->line:35] - INFO: '财政专户账户代码'('xpath', "//input[@id='111024']")元素定位成功
+[2021-06-02 15:24:37,761] - logger.py-->line:35] - INFO: 财政专户账户代码清除成功
+[2021-06-02 15:24:37,767] - logger.py-->line:35] - INFO: '财政专户账户代码'('xpath', "//input[@id='111024']")元素定位成功
+[2021-06-02 15:24:37,802] - logger.py-->line:35] - INFO: 在财政专户账户代码中输入1成功
+[2021-06-02 15:24:37,813] - logger.py-->line:35] - INFO: '备案详情页确认按钮'('xpath', "//button[contains(text(),'确 认')]")元素定位成功
+[2021-06-02 15:24:37,893] - logger.py-->line:35] - INFO: 点击备案详情页确认按钮成功
+[2021-06-02 15:24:38,926] - logger.py-->line:35] - INFO: '弹窗确定按钮'('xpath', "//a[contains(text(),'确定')]")元素定位成功
+[2021-06-02 15:24:39,016] - logger.py-->line:35] - INFO: 点击弹窗确定按钮成功
+[2021-06-02 15:24:39,018] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:24:39,021] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:24:39,022] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:24:39,186] - logger.py-->line:35] - INFO: 成功退出当前用户
+[2021-06-02 15:49:36,467] - logger.py-->line:35] - INFO: '切换登录方式'('class name', 'pt-fanhui')元素定位成功
+[2021-06-02 15:49:36,467] - logger.py-->line:39] - WARNING: '切换登录方式'('class name', 'pt-fanhui')元素定位失败，报错信息为：name 'ch' is not defined
+[2021-06-02 15:49:36,467] - logger.py-->line:39] - WARNING: '切换登录方式'('class name', 'pt-fanhui')元素定位失败，报错信息为：name 'ch' is not defined
+[2021-06-02 15:49:36,468] - logger.py-->line:39] - WARNING: 点击切换登录方式失败
+[2021-06-02 15:49:36,468] - logger.py-->line:39] - WARNING: 点击切换登录方式失败
+[2021-06-02 15:49:36,468] - logger.py-->line:39] - WARNING: 点击切换登录方式失败
+[2021-06-02 15:49:36,479] - logger.py-->line:35] - INFO: '用户名框'('id', 'username')元素定位成功
+[2021-06-02 15:49:36,479] - logger.py-->line:35] - INFO: '用户名框'('id', 'username')元素定位成功
+[2021-06-02 15:49:36,479] - logger.py-->line:35] - INFO: '用户名框'('id', 'username')元素定位成功
+[2021-06-02 15:49:36,479] - logger.py-->line:35] - INFO: '用户名框'('id', 'username')元素定位成功
+[2021-06-02 15:49:36,480] - logger.py-->line:39] - WARNING: '用户名框'('id', 'username')元素定位失败，报错信息为：name 'ch' is not defined
+[2021-06-02 15:49:36,480] - logger.py-->line:39] - WARNING: '用户名框'('id', 'username')元素定位失败，报错信息为：name 'ch' is not defined
+[2021-06-02 15:49:36,480] - logger.py-->line:39] - WARNING: '用户名框'('id', 'username')元素定位失败，报错信息为：name 'ch' is not defined
+[2021-06-02 15:49:36,480] - logger.py-->line:39] - WARNING: '用户名框'('id', 'username')元素定位失败，报错信息为：name 'ch' is not defined
+[2021-06-02 15:49:36,480] - logger.py-->line:39] - WARNING: '用户名框'('id', 'username')元素定位失败，报错信息为：name 'ch' is not defined
+[2021-06-02 15:49:36,480] - logger.py-->line:39] - WARNING: 在用户名框中输入350203196505264042失败
+[2021-06-02 15:49:36,480] - logger.py-->line:39] - WARNING: 在用户名框中输入350203196505264042失败
+[2021-06-02 15:49:36,480] - logger.py-->line:39] - WARNING: 在用户名框中输入350203196505264042失败
+[2021-06-02 15:49:36,480] - logger.py-->line:39] - WARNING: 在用户名框中输入350203196505264042失败
+[2021-06-02 15:49:36,480] - logger.py-->line:39] - WARNING: 在用户名框中输入350203196505264042失败
+[2021-06-02 15:49:36,480] - logger.py-->line:39] - WARNING: 在用户名框中输入350203196505264042失败
+[2021-06-02 15:50:34,524] - logger.py-->line:35] - INFO: '切换登录方式'('class name', 'pt-fanhui')元素定位成功
+[2021-06-02 15:50:34,583] - logger.py-->line:35] - INFO: 点击切换登录方式成功
+[2021-06-02 15:50:34,599] - logger.py-->line:35] - INFO: '用户名框'('id', 'username')元素定位成功
+[2021-06-02 15:50:34,632] - logger.py-->line:35] - INFO: 用户名框清除成功
+[2021-06-02 15:50:34,638] - logger.py-->line:35] - INFO: '用户名框'('id', 'username')元素定位成功
+[2021-06-02 15:50:34,694] - logger.py-->line:35] - INFO: 在用户名框中输入350203196505264042成功
+[2021-06-02 15:50:34,705] - logger.py-->line:35] - INFO: '密码框'('id', 'password')元素定位成功
+[2021-06-02 15:50:34,733] - logger.py-->line:35] - INFO: 密码框清除成功
+[2021-06-02 15:50:34,740] - logger.py-->line:35] - INFO: '密码框'('id', 'password')元素定位成功
+[2021-06-02 15:50:34,773] - logger.py-->line:35] - INFO: 在密码框中输入1成功
+[2021-06-02 15:50:34,782] - logger.py-->line:35] - INFO: '登录按钮'('class name', 'login-btn')元素定位成功
+[2021-06-02 15:50:35,429] - logger.py-->line:35] - INFO: 点击登录按钮成功
+[2021-06-02 15:50:35,570] - logger.py-->line:35] - INFO: ''财政专户管理''('xpath', "//li[@text='财政专户管理']")元素定位成功
+[2021-06-02 15:50:35,775] - logger.py-->line:35] - INFO: 点击'财政专户管理'成功
+[2021-06-02 15:50:35,786] - logger.py-->line:35] - INFO: ''专户账户维护''('xpath', "//li[@text='专户账户维护']")元素定位成功
+[2021-06-02 15:50:36,555] - logger.py-->line:35] - INFO: 点击'专户账户维护'成功
+[2021-06-02 15:50:36,575] - logger.py-->line:35] - INFO: '首层frame'('xpath', '//body/div[1]/div[2]/div[1]/div[2]/iframe[1]')元素定位成功
+[2021-06-02 15:50:36,590] - logger.py-->line:35] - INFO: 进入frame('xpath', '//body/div[1]/div[2]/div[1]/div[2]/iframe[1]')成功
+[2021-06-02 15:50:36,599] - logger.py-->line:35] - INFO: '待送审页签'('xpath', "//a[contains(text(),'待送审')]")元素定位成功
+[2021-06-02 15:50:36,691] - logger.py-->line:35] - INFO: 点击待送审页签成功
+[2021-06-02 15:50:36,703] - logger.py-->line:35] - INFO: '开户详情按钮'('id', 'add_acc')元素定位成功
+[2021-06-02 15:50:36,795] - logger.py-->line:35] - INFO: 点击开户详情按钮成功
+[2021-06-02 15:50:36,841] - logger.py-->line:35] - INFO: '开户详情页面frame'('xpath', "//iframe[@allowtransparency='true']")元素定位成功
+[2021-06-02 15:50:37,045] - logger.py-->line:35] - INFO: 进入frame('xpath', "//iframe[@allowtransparency='true']")成功
+[2021-06-02 15:50:37,126] - logger.py-->line:35] - INFO: '帐号名称'('xpath', "//span[contains(text(), '账户名称:')]/following-sibling::span[1]/input")元素定位成功
+[2021-06-02 15:50:37,168] - logger.py-->line:35] - INFO: 帐号名称清除成功
+[2021-06-02 15:50:37,175] - logger.py-->line:35] - INFO: '帐号名称'('xpath', "//span[contains(text(), '账户名称:')]/following-sibling::span[1]/input")元素定位成功
+[2021-06-02 15:50:37,244] - logger.py-->line:35] - INFO: 在帐号名称中输入专户账户冒烟测试052707成功
+[2021-06-02 15:50:37,257] - logger.py-->line:35] - INFO: '财政区划代码'('xpath', "//span[contains(text(), '财政区划代码:')]/following-sibling::span[1]/span/input")元素定位成功
+[2021-06-02 15:50:37,377] - logger.py-->line:35] - INFO: 点击财政区划代码成功
+[2021-06-02 15:50:37,389] - logger.py-->line:35] - INFO: '财政区划代码选择'('xpath', "//span[contains(text(),'450100000 南宁市')]")元素定位成功
+[2021-06-02 15:50:37,473] - logger.py-->line:35] - INFO: 点击财政区划代码选择成功
+[2021-06-02 15:50:37,484] - logger.py-->line:35] - INFO: '账户类别代码'('xpath', "//span[contains(text(), '账户类别代码:')]/following-sibling::span[1]/span/input")元素定位成功
+[2021-06-02 15:50:37,580] - logger.py-->line:35] - INFO: 点击账户类别代码成功
+[2021-06-02 15:50:37,591] - logger.py-->line:35] - INFO: '账户类别代码'('xpath', "//span[contains(text(),'31 社保基金财政专户')]/preceding-sibling::span[1]")元素定位成功
+[2021-06-02 15:50:37,670] - logger.py-->line:35] - INFO: 点击账户类别代码成功
+[2021-06-02 15:50:37,681] - logger.py-->line:35] - INFO: '险种'('xpath', "//span[contains(text(), '险种:')]/following-sibling::span[1]/span/input")元素定位成功
+[2021-06-02 15:50:37,796] - logger.py-->line:35] - INFO: 点击险种成功
+[2021-06-02 15:50:37,807] - logger.py-->line:35] - INFO: '险种'('xpath', "//span[contains(text(),'1101 企业职工基本养老保险基金')]")元素定位成功
+[2021-06-02 15:50:37,886] - logger.py-->line:35] - INFO: 点击险种成功
+[2021-06-02 15:50:37,896] - logger.py-->line:35] - INFO: '核算内容'('id', '110113')元素定位成功
+[2021-06-02 15:50:37,924] - logger.py-->line:35] - INFO: 核算内容清除成功
+[2021-06-02 15:50:37,929] - logger.py-->line:35] - INFO: '核算内容'('id', '110113')元素定位成功
+[2021-06-02 15:50:37,971] - logger.py-->line:35] - INFO: 在核算内容中输入核算内容成功
+[2021-06-02 15:50:37,980] - logger.py-->line:35] - INFO: '审批类型代码'('id', '110120')元素定位成功
+[2021-06-02 15:50:38,088] - logger.py-->line:35] - INFO: 点击审批类型代码成功
+[2021-06-02 15:50:38,101] - logger.py-->line:35] - INFO: '审批类型代码'('xpath', "//select[@id='110120']/option[@value='1']")元素定位成功
+[2021-06-02 15:50:38,126] - logger.py-->line:35] - INFO: 点击审批类型代码成功
+[2021-06-02 15:50:38,137] - logger.py-->line:35] - INFO: '开户银行选择方式'('id', '110107')元素定位成功
+[2021-06-02 15:50:38,250] - logger.py-->line:35] - INFO: 点击开户银行选择方式成功
+[2021-06-02 15:50:38,262] - logger.py-->line:35] - INFO: '开户银行选择方式'('xpath', "//option[contains(text(),'竞争性方式')]")元素定位成功
+[2021-06-02 15:50:38,282] - logger.py-->line:35] - INFO: 点击开户银行选择方式成功
+[2021-06-02 15:50:38,291] - logger.py-->line:35] - INFO: '单位代码'('id', '110119')元素定位成功
+[2021-06-02 15:50:38,322] - logger.py-->line:35] - INFO: 单位代码清除成功
+[2021-06-02 15:50:38,329] - logger.py-->line:35] - INFO: '单位代码'('id', '110119')元素定位成功
+[2021-06-02 15:50:38,388] - logger.py-->line:35] - INFO: 在单位代码中输入单位代码成功
+[2021-06-02 15:50:38,397] - logger.py-->line:35] - INFO: '单位代码'('id', '110114')元素定位成功
+[2021-06-02 15:50:38,427] - logger.py-->line:35] - INFO: 单位代码清除成功
+[2021-06-02 15:50:38,437] - logger.py-->line:35] - INFO: '单位代码'('id', '110114')元素定位成功
+[2021-06-02 15:50:38,489] - logger.py-->line:35] - INFO: 在单位代码中输入开户依据成功
+[2021-06-02 15:50:38,498] - logger.py-->line:35] - INFO: '开户详情页保存按钮'('xpath', "//button[contains(text(),'保 存')]")元素定位成功
+[2021-06-02 15:50:38,624] - logger.py-->line:35] - INFO: 点击开户详情页保存按钮成功
+[2021-06-02 15:50:40,640] - logger.py-->line:35] - INFO: '录入保存后的提示框确定'('xpath', "//div[contains(text(),'信息')]/following-sibling::div[2]/a")元素定位成功
+[2021-06-02 15:50:40,759] - logger.py-->line:35] - INFO: 点击录入保存后的提示框确定成功
+[2021-06-02 15:50:40,760] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:50:40,763] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:50:40,770] - logger.py-->line:35] - INFO: '首层frame'('xpath', '//body/div[1]/div[2]/div[1]/div[2]/iframe[1]')元素定位成功
+[2021-06-02 15:50:40,781] - logger.py-->line:35] - INFO: 进入frame('xpath', '//body/div[1]/div[2]/div[1]/div[2]/iframe[1]')成功
+[2021-06-02 15:50:40,788] - logger.py-->line:35] - INFO: '待送审页签'('xpath', "//a[contains(text(),'待送审')]")元素定位成功
+[2021-06-02 15:50:40,925] - logger.py-->line:35] - INFO: 点击待送审页签成功
+[2021-06-02 15:50:42,943] - logger.py-->line:35] - INFO: '专户账户冒烟测试052707所在数据的送审按钮'('xpath', "//td/span[@title='专户账户冒烟测试052707'][1]/../following-sibling::td[6]/a[@title='送 审'][1]")元素定位成功
+[2021-06-02 15:50:43,007] - logger.py-->line:35] - INFO: 点击专户账户冒烟测试052707所在数据的送审按钮成功
+[2021-06-02 15:50:43,326] - logger.py-->line:35] - INFO: '弹窗确定按钮'('xpath', "//a[contains(text(),'确定')]")元素定位成功
+[2021-06-02 15:50:43,379] - logger.py-->line:35] - INFO: 点击弹窗确定按钮成功
+[2021-06-02 15:50:43,381] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:50:43,386] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:50:43,595] - logger.py-->line:35] - INFO: 成功退出当前用户
+[2021-06-02 15:50:43,792] - logger.py-->line:35] - INFO: '切换登录方式'('class name', 'pt-fanhui')元素定位成功
+[2021-06-02 15:50:43,842] - logger.py-->line:35] - INFO: 点击切换登录方式成功
+[2021-06-02 15:50:43,851] - logger.py-->line:35] - INFO: '用户名框'('id', 'username')元素定位成功
+[2021-06-02 15:50:43,885] - logger.py-->line:35] - INFO: 用户名框清除成功
+[2021-06-02 15:50:43,890] - logger.py-->line:35] - INFO: '用户名框'('id', 'username')元素定位成功
+[2021-06-02 15:50:43,946] - logger.py-->line:35] - INFO: 在用户名框中输入430528198611270043成功
+[2021-06-02 15:50:43,952] - logger.py-->line:35] - INFO: '密码框'('id', 'password')元素定位成功
+[2021-06-02 15:50:43,976] - logger.py-->line:35] - INFO: 密码框清除成功
+[2021-06-02 15:50:43,981] - logger.py-->line:35] - INFO: '密码框'('id', 'password')元素定位成功
+[2021-06-02 15:50:44,014] - logger.py-->line:35] - INFO: 在密码框中输入1成功
+[2021-06-02 15:50:44,021] - logger.py-->line:35] - INFO: '登录按钮'('class name', 'login-btn')元素定位成功
+[2021-06-02 15:50:44,457] - logger.py-->line:35] - INFO: 点击登录按钮成功
+[2021-06-02 15:50:44,558] - logger.py-->line:35] - INFO: ''财政专户管理''('xpath', "//li[@text='财政专户管理']")元素定位成功
+[2021-06-02 15:50:44,852] - logger.py-->line:35] - INFO: 点击'财政专户管理'成功
+[2021-06-02 15:50:44,862] - logger.py-->line:35] - INFO: ''专户账户审核''('xpath', "//li[@text='专户账户审核']")元素定位成功
+[2021-06-02 15:50:45,214] - logger.py-->line:35] - INFO: 点击'专户账户审核'成功
+[2021-06-02 15:50:45,221] - logger.py-->line:35] - INFO: '首层frame'('xpath', '//body/div[1]/div[2]/div[1]/div[2]/iframe[1]')元素定位成功
+[2021-06-02 15:50:45,239] - logger.py-->line:35] - INFO: 进入frame('xpath', '//body/div[1]/div[2]/div[1]/div[2]/iframe[1]')成功
+[2021-06-02 15:50:45,424] - logger.py-->line:35] - INFO: '专户账户冒烟测试052707所在数据的审核通过按钮'('xpath', "//tbody/tr/td/span[@title='专户账户冒烟测试052707'][1]/../following-sibling::td[6]/a[@title='通过'][1]")元素定位成功
+[2021-06-02 15:50:45,513] - logger.py-->line:35] - INFO: 点击专户账户冒烟测试052707所在数据的审核通过按钮成功
+[2021-06-02 15:50:45,527] - logger.py-->line:35] - INFO: '通过意见'('xpath', "//div[@class='layui-layer-content']/textarea")元素定位成功
+[2021-06-02 15:50:45,547] - logger.py-->line:35] - INFO: 通过意见清除成功
+[2021-06-02 15:50:45,556] - logger.py-->line:35] - INFO: '通过意见'('xpath', "//div[@class='layui-layer-content']/textarea")元素定位成功
+[2021-06-02 15:50:45,603] - logger.py-->line:35] - INFO: 在通过意见中输入自动化测试通过意见成功
+[2021-06-02 15:50:45,610] - logger.py-->line:35] - INFO: '弹窗确定按钮'('xpath', "//a[contains(text(),'确定')]")元素定位成功
+[2021-06-02 15:50:45,666] - logger.py-->line:35] - INFO: 点击弹窗确定按钮成功
+[2021-06-02 15:50:48,694] - logger.py-->line:35] - INFO: '通过意见弹窗确定按钮'('xpath', "//div[contains(text(),'信息')]/following-sibling::div[2]/a")元素定位成功
+[2021-06-02 15:50:48,754] - logger.py-->line:35] - INFO: 点击通过意见弹窗确定按钮成功
+[2021-06-02 15:50:48,769] - logger.py-->line:35] - INFO: '已审核页签'('xpath', "//a[contains(text(),'已审核')]")元素定位成功
+[2021-06-02 15:50:49,061] - logger.py-->line:35] - INFO: 点击已审核页签成功
+[2021-06-02 15:50:49,065] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:50:49,068] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:50:49,235] - logger.py-->line:35] - INFO: 成功退出当前用户
+[2021-06-02 15:50:49,377] - logger.py-->line:35] - INFO: '切换登录方式'('class name', 'pt-fanhui')元素定位成功
+[2021-06-02 15:50:49,424] - logger.py-->line:35] - INFO: 点击切换登录方式成功
+[2021-06-02 15:50:49,430] - logger.py-->line:35] - INFO: '用户名框'('id', 'username')元素定位成功
+[2021-06-02 15:50:49,457] - logger.py-->line:35] - INFO: 用户名框清除成功
+[2021-06-02 15:50:49,463] - logger.py-->line:35] - INFO: '用户名框'('id', 'username')元素定位成功
+[2021-06-02 15:50:49,507] - logger.py-->line:35] - INFO: 在用户名框中输入350583198909091018成功
+[2021-06-02 15:50:49,513] - logger.py-->line:35] - INFO: '密码框'('id', 'password')元素定位成功
+[2021-06-02 15:50:49,540] - logger.py-->line:35] - INFO: 密码框清除成功
+[2021-06-02 15:50:49,546] - logger.py-->line:35] - INFO: '密码框'('id', 'password')元素定位成功
+[2021-06-02 15:50:49,591] - logger.py-->line:35] - INFO: 在密码框中输入1成功
+[2021-06-02 15:50:49,600] - logger.py-->line:35] - INFO: '登录按钮'('class name', 'login-btn')元素定位成功
+[2021-06-02 15:50:50,953] - logger.py-->line:35] - INFO: 点击登录按钮成功
+[2021-06-02 15:50:51,164] - logger.py-->line:35] - INFO: ''财政专户管理''('xpath', "//li[@text='财政专户管理']")元素定位成功
+[2021-06-02 15:50:51,570] - logger.py-->line:35] - INFO: 点击'财政专户管理'成功
+[2021-06-02 15:50:51,580] - logger.py-->line:35] - INFO: ''专户账户审核(省终审)''('xpath', "//li[@text='专户账户审核(省终审)']")元素定位成功
+[2021-06-02 15:50:51,606] - logger.py-->line:35] - INFO: 点击'专户账户审核(省终审)'成功
+[2021-06-02 15:50:51,612] - logger.py-->line:35] - INFO: '首层frame'('xpath', '//body/div[1]/div[2]/div[1]/div[2]/iframe[1]')元素定位成功
+[2021-06-02 15:50:51,626] - logger.py-->line:35] - INFO: 进入frame('xpath', '//body/div[1]/div[2]/div[1]/div[2]/iframe[1]')成功
+[2021-06-02 15:50:51,698] - logger.py-->line:35] - INFO: '专户账户冒烟测试052707所在数据的审核通过按钮'('xpath', "//tbody/tr/td/span[@title='专户账户冒烟测试052707'][1]/../following-sibling::td[6]/a[@title='通过'][1]")元素定位成功
+[2021-06-02 15:50:51,768] - logger.py-->line:35] - INFO: 点击专户账户冒烟测试052707所在数据的审核通过按钮成功
+[2021-06-02 15:50:51,796] - logger.py-->line:35] - INFO: '详情页面frame'('xpath', "//iframe[@allowtransparency='true']")元素定位成功
+[2021-06-02 15:50:52,107] - logger.py-->line:35] - INFO: 进入frame('xpath', "//iframe[@allowtransparency='true']")成功
+[2021-06-02 15:50:52,128] - logger.py-->line:35] - INFO: '审批意见'('xpath', "//textarea[@placeholder='请填写审批意见']")元素定位成功
+[2021-06-02 15:50:52,149] - logger.py-->line:35] - INFO: 审批意见清除成功
+[2021-06-02 15:50:52,155] - logger.py-->line:35] - INFO: '审批意见'('xpath', "//textarea[@placeholder='请填写审批意见']")元素定位成功
+[2021-06-02 15:50:52,198] - logger.py-->line:35] - INFO: 在审批意见中输入自动化测试通过意见成功
+[2021-06-02 15:50:52,208] - logger.py-->line:35] - INFO: '审批附件上传按钮'('xpath', "//span[@title='审批附件上传']/following-sibling::span[1]/div[1]/div[1]/button")元素定位成功
+[2021-06-02 15:50:52,307] - logger.py-->line:35] - INFO: 点击审批附件上传按钮成功
+[2021-06-02 15:50:55,385] - logger.py-->line:35] - INFO: 上传附件成功
+[2021-06-02 15:50:55,411] - logger.py-->line:35] - INFO: '审核详情页面通过按钮'('xpath', "//button[contains(text(),'通 过')]")元素定位成功
+[2021-06-02 15:50:56,072] - logger.py-->line:35] - INFO: 点击审核详情页面通过按钮成功
+[2021-06-02 15:50:56,363] - logger.py-->line:35] - INFO: '审核通过信息确定'('xpath', "//div[contains(text(),'信息')]/following-sibling::div[2]/a")元素定位成功
+[2021-06-02 15:50:56,491] - logger.py-->line:35] - INFO: 点击审核通过信息确定成功
+[2021-06-02 15:50:56,494] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:50:56,499] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:50:56,502] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:50:56,704] - logger.py-->line:35] - INFO: 成功退出当前用户
+[2021-06-02 15:50:56,887] - logger.py-->line:35] - INFO: '切换登录方式'('class name', 'pt-fanhui')元素定位成功
+[2021-06-02 15:50:56,934] - logger.py-->line:35] - INFO: 点击切换登录方式成功
+[2021-06-02 15:50:56,949] - logger.py-->line:35] - INFO: '用户名框'('id', 'username')元素定位成功
+[2021-06-02 15:50:56,981] - logger.py-->line:35] - INFO: 用户名框清除成功
+[2021-06-02 15:50:56,987] - logger.py-->line:35] - INFO: '用户名框'('id', 'username')元素定位成功
+[2021-06-02 15:50:57,040] - logger.py-->line:35] - INFO: 在用户名框中输入350203196505264042成功
+[2021-06-02 15:50:57,054] - logger.py-->line:35] - INFO: '密码框'('id', 'password')元素定位成功
+[2021-06-02 15:50:57,084] - logger.py-->line:35] - INFO: 密码框清除成功
+[2021-06-02 15:50:57,090] - logger.py-->line:35] - INFO: '密码框'('id', 'password')元素定位成功
+[2021-06-02 15:50:57,122] - logger.py-->line:35] - INFO: 在密码框中输入1成功
+[2021-06-02 15:50:57,132] - logger.py-->line:35] - INFO: '登录按钮'('class name', 'login-btn')元素定位成功
+[2021-06-02 15:50:57,513] - logger.py-->line:35] - INFO: 点击登录按钮成功
+[2021-06-02 15:50:57,711] - logger.py-->line:35] - INFO: ''财政专户管理''('xpath', "//li[@text='财政专户管理']")元素定位成功
+[2021-06-02 15:50:57,791] - logger.py-->line:35] - INFO: 点击'财政专户管理'成功
+[2021-06-02 15:50:57,804] - logger.py-->line:35] - INFO: ''专户账户备案''('xpath', "//li[@text='专户账户备案']")元素定位成功
+[2021-06-02 15:50:58,243] - logger.py-->line:35] - INFO: 点击'专户账户备案'成功
+[2021-06-02 15:50:58,256] - logger.py-->line:35] - INFO: '首层frame'('xpath', '//body/div[1]/div[2]/div[1]/div[2]/iframe[1]')元素定位成功
+[2021-06-02 15:50:58,270] - logger.py-->line:35] - INFO: 进入frame('xpath', '//body/div[1]/div[2]/div[1]/div[2]/iframe[1]')成功
+[2021-06-02 15:50:59,297] - logger.py-->line:35] - INFO: '专户账户冒烟测试052707所在数据的备案按钮'('xpath', "//tbody/tr/td/span[@title='专户账户冒烟测试052707'][1]/../following-sibling::td[6]/a[@title='备案'][1]")元素定位成功
+[2021-06-02 15:50:59,370] - logger.py-->line:35] - INFO: 点击专户账户冒烟测试052707所在数据的备案按钮成功
+[2021-06-02 15:50:59,391] - logger.py-->line:35] - INFO: '备案详情页frame'('xpath', "//iframe[@allowtransparency='true']")元素定位成功
+[2021-06-02 15:50:59,551] - logger.py-->line:35] - INFO: 进入frame('xpath', "//iframe[@allowtransparency='true']")成功
+[2021-06-02 15:50:59,669] - logger.py-->line:35] - INFO: '开户许可证核准号'('id', '111014')元素定位成功
+[2021-06-02 15:50:59,702] - logger.py-->line:35] - INFO: 开户许可证核准号清除成功
+[2021-06-02 15:50:59,708] - logger.py-->line:35] - INFO: '开户许可证核准号'('id', '111014')元素定位成功
+[2021-06-02 15:50:59,750] - logger.py-->line:35] - INFO: 在开户许可证核准号中输入123成功
+[2021-06-02 15:50:59,762] - logger.py-->line:35] - INFO: '帐号'('id', '111017')元素定位成功
+[2021-06-02 15:50:59,790] - logger.py-->line:35] - INFO: 帐号清除成功
+[2021-06-02 15:50:59,796] - logger.py-->line:35] - INFO: '帐号'('id', '111017')元素定位成功
+[2021-06-02 15:50:59,846] - logger.py-->line:35] - INFO: 在帐号中输入1231231成功
+[2021-06-02 15:50:59,980] - logger.py-->line:35] - INFO: '开户银行'('xpath', "//span[contains(text(), '开户银行:')]/following-sibling::span[1]/span/input")元素定位成功
+[2021-06-02 15:51:00,097] - logger.py-->line:35] - INFO: 点击开户银行成功
+[2021-06-02 15:51:00,108] - logger.py-->line:35] - INFO: '开户银行选择'('xpath', "//span[contains(text(),'1030602 中国农业银行桂林建干路支行')]")元素定位成功
+[2021-06-02 15:51:00,184] - logger.py-->line:35] - INFO: 点击开户银行选择成功
+[2021-06-02 15:51:00,196] - logger.py-->line:35] - INFO: '财政专户账户代码'('xpath', "//input[@id='111024']")元素定位成功
+[2021-06-02 15:51:00,222] - logger.py-->line:35] - INFO: 财政专户账户代码清除成功
+[2021-06-02 15:51:00,229] - logger.py-->line:35] - INFO: '财政专户账户代码'('xpath', "//input[@id='111024']")元素定位成功
+[2021-06-02 15:51:00,258] - logger.py-->line:35] - INFO: 在财政专户账户代码中输入1成功
+[2021-06-02 15:51:00,268] - logger.py-->line:35] - INFO: '备案详情页确认按钮'('xpath', "//button[contains(text(),'确 认')]")元素定位成功
+[2021-06-02 15:51:00,348] - logger.py-->line:35] - INFO: 点击备案详情页确认按钮成功
+[2021-06-02 15:51:01,373] - logger.py-->line:35] - INFO: '弹窗确定按钮'('xpath', "//a[contains(text(),'确定')]")元素定位成功
+[2021-06-02 15:51:01,455] - logger.py-->line:35] - INFO: 点击弹窗确定按钮成功
+[2021-06-02 15:51:01,458] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:51:01,464] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:51:01,467] - logger.py-->line:35] - INFO: 跳出frame成功
+[2021-06-02 15:51:01,635] - logger.py-->line:35] - INFO: 成功退出当前用户
